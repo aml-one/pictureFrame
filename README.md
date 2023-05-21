@@ -60,8 +60,8 @@ The format for the date is YYYYMMDD like 2023 05 21 (without spaces)
 
 <h3>Step 2</h3>
 Add the new language name and code into the availableLanguages array. (Please use the name as they would use in that language)
-<code>
-"availableLanguages": {
+<pre>
+<code>"availableLanguages": {
 		"English": "en",
 		"Français": "fr",
 		"Deutsch": "de",
@@ -69,11 +69,12 @@ Add the new language name and code into the availableLanguages array. (Please us
 		"Magyar": "hu"
 	}
  </code>
+ </pre>
  
  <h3>Step 3</h3>
  Edit the following block change the language code at the front and the name inside to the actual code and name, then you can translate the right side of the block..
  
- <code>"en": {
+ <pre><code>"en": {
 			"Name": "English",
 			"Author": "AmL",
 			"dv": "___________",
@@ -115,4 +116,4 @@ Add the new language name and code into the availableLanguages array. (Please us
 			"daily_low": "daily low",
 			"chance_of_precipitation": "chance of precipitation"
 		} 
- </code>
+ </code></pre>
