@@ -85,7 +85,7 @@ Eg: <code>"Magyar": "hu"</code> for Hungarian<br /><br />
  <pre><code>"en": {
   "Name": "English",
   "Author": "AmL",
-  "dv": "___________",
+  "Comment1": "______Day_names______",
   "Monday": "Monday",
   "Tuesday": "Tuesday",
   "Wednesday": "Wednesday",
@@ -93,6 +93,8 @@ Eg: <code>"Magyar": "hu"</code> for Hungarian<br /><br />
   "Friday": "Friday",
   "Saturday": "Saturday",
   "Sunday": "Sunday",
+  "Tomorrow": "Tomorrow",
+  "Comment2": "______Day_names_in_short______",
   "Mon": "Mon",
   "Tue": "Tue",
   "Wed": "Wed",
@@ -100,8 +102,10 @@ Eg: <code>"Magyar": "hu"</code> for Hungarian<br /><br />
   "Fri": "Fri",
   "Sat": "Sat",
   "Sun": "Sun",
+  "Comment3": "______AM/PM_indicators______",
   "am": "am",
   "pm": "pm",
+  "Comment4": "______Month_names_in_short______",
   "Jan": "Jan",
   "Feb": "Feb",
   "Mar": "Mar",
@@ -114,6 +118,7 @@ Eg: <code>"Magyar": "hu"</code> for Hungarian<br /><br />
   "Oct": "Oct",
   "Nov": "Nov",
   "Dec": "Dec",
+  "Comment5": "______Weather_related_expressions______",
   "Feels_like": "Feels like",
   "Sunrise": "Sunrise",
   "Sunset": "Sunset",
@@ -122,7 +127,78 @@ Eg: <code>"Magyar": "hu"</code> for Hungarian<br /><br />
   "wind": "wind",
   "daily_high": "daily high",
   "daily_low": "daily low",
-  "chance_of_precipitation": "chance of precipitation",
-  "Tomorrow": "Tomorrow"
-  } 
+  "chance_of_precipitation": "chance of precipitation",			
+  "Comment6": "______Wind_directions_in_initials______",
+  "N": "N",
+  "NNE": "NNE",
+  "NE": "NE",
+  "ENE": "ENE",
+  "E": "E",
+  "ESE": "ESE",
+  "SE": "SE",
+  "SSE": "SSE",
+  "S": "S",
+  "SSW": "SSW",
+  "SW": "SW",
+  "WSW": "WSW",
+  "W": "W",
+  "WNW": "WNW",
+  "NW": "NW",
+  "NNW": "NNW"
+}
  </code></pre>
+ 
+ <hr />
+ <h4>Wind direction shorts:</h4>
+ <p>Please try to keep them short</p>
+ <br />
+<table>
+<tr>
+  <td>"N"   </td><td> North</td>
+  </tr>
+<tr>
+  <td>"NNE" </td><td> North North East</td>
+</tr>
+<tr>
+  <td>"NE"  </td><td> North East</td>
+</tr>
+<tr>
+  <td>ENE"  </td><td> East North East</td>
+</tr>
+<tr>
+  <td>"E"   </td><td> East</td>
+</tr>
+<tr>
+  <td>"ESE" </td><td> East South East</td>
+</tr>
+<tr>
+  <td>"SE"  </td><td> South East</td>
+</tr>
+<tr>
+  <td>"SSE" </td><td> South South East</td>
+</tr>
+<tr>
+  <td>"S"   </td><td> South</td>
+</tr>
+<tr>
+  <td>"SSW" </td><td> South South West</td>
+</tr>
+<tr>
+  <td>"SW"  </td><td> South West</td>
+</tr>
+<tr>
+  <td>"WSW" </td><td> West South West</td>
+</tr>
+<tr>
+  <td>"W"   </td><td> West</td>
+</tr>
+<tr>
+  <td>"WNW" </td><td> West North West</td>
+</tr>
+<tr>
+  <td>"NW"  </td><td> North West</td>
+</tr>
+<tr>
+  <td>"NNW" </td><td> North North West</td>
+</tr>
+</table>
