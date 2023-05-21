@@ -11,6 +11,7 @@
 	"language": {
 		"en": {
 			"Name": "English",
+			"Author": "AmL",
 			"dv": "___________",
 			"Monday": "Monday",
 			"Tuesday": "Tuesday",
@@ -52,6 +53,7 @@
 		},
 		"fr": {
 			"Name": "Français",
+			"Author": "AmL",
 			"dv": "___________",
 			"Monday": "Lundi",
 			"Tuesday": "Mardi",
@@ -93,6 +95,7 @@
 		},
 		"de": {
 			"Name": "Deutsch",
+			"Author": "AmL",
 			"dv": "___________",
 			"Monday": "Montag",
 			"Tuesday": "Dienstag",
@@ -134,6 +137,7 @@
 		},
 		"es": {
 			"Name": "Español",
+			"Author": "AmL",
 			"dv": "___________",
 			"Monday": "Lunes",
 			"Tuesday": "Martes",
@@ -175,6 +179,7 @@
 		},
 		"hu": {
 			"Name": "Magyar",
+			"Author": "AmL",
 			"dv": "___________",
 			"Monday": "Hétfő",
 			"Tuesday": "Kedd",
@@ -216,6 +221,7 @@
 		},
 		"ar": {
 			"Name": "Arabic",
+			"Author": "AmL",
 			"dv": "___________",
 			"Monday": "الاثنين",
 			"Tuesday": "يوم الثلاثاء",
