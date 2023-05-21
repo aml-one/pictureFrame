@@ -54,7 +54,7 @@ Possible options for new language are the following:
 <h3>Step 1</h3>
 Please change the version tag to the actual date when you're editing the file, that's how the app would know if there is a newer language file is.
 
-<code>"version": "20230521"</code>
+<pre><code>"version": "20230521"</code></pre>
 
 The format for the date is YYYYMMDD like 2023 05 21 (without spaces)
 
@@ -65,8 +65,8 @@ Add the new language name and code into the availableLanguages array. (Please us
   "English": "en",
   "Français": "fr",
   "Deutsch": "de",
-  "Español": "es"<span style='color:yellow;'>,
-  "Magyar": "hu"</span>
+  "Español": "es"```html<span style='color:yellow;'>,
+  "Magyar": "hu"</span>```
 }</code>
  </pre>
  
