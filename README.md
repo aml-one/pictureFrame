@@ -122,6 +122,7 @@ Eg: <code>"Magyar": "hu"</code> for Hungarian<br /><br />
   "wind": "wind",
   "daily_high": "daily high",
   "daily_low": "daily low",
-  "chance_of_precipitation": "chance of precipitation"
+  "chance_of_precipitation": "chance of precipitation",
+  "Tomorrow": "Tomorrow"
   } 
  </code></pre>
