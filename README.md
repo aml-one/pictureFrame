@@ -1,7 +1,6 @@
-# pictureFrame
-Picture Frame v1.5+ Language 
+<h2>Picture Frame v1.5+ Language</h2>
 
-Possible options for new language are the following:
+<u>Possible options for new language are the following:</u>
 <li>[af] Afrikaans</li>
 <li>[al] Albanian</li>
 <li>[ar] Arabic</li>
@@ -49,8 +48,9 @@ Possible options for new language are the following:
 <li>[zh_tw] Chinese Traditional</li>
 <li>[zu] Zulu</li>
 
-#END
 <hr />
+
+<h4>File format is <b>JSON</b>, please use comma where it needed. You can see the structure of the file</h4>
 <h3>Step 1</h3>
 Please change the version tag to the actual date when you're editing the file, that's how the app would know if there is a newer language file is.
 
@@ -58,26 +58,26 @@ Please change the version tag to the actual date when you're editing the file, t
 
 The format for the date is YYYYMMDD like 2023 05 21 (without spaces)
 
+<hr />
 <h3>Step 2</h3>
-Add the new language name and code into the availableLanguages array. (Please use the name as they would use in that language)
-<pre>"availableLanguages": {
+Add the new language name and code into the <b>availableLanguages</b> array. (<i>Please use the name as they would use in that language</i>)
+<br />
+Eg: <code>"Magyar": "hu"</code> for Hungarian<br /><br />
+
+<pre><code>"availableLanguages": {
   "English": "en",
   "Français": "fr",
   "Deutsch": "de",
-  "Español": "es"$${\color{red},$\color[RGB]{155,127,0} hello$
-  "Magyar": "hu"}$$
-}
- </pre>
- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 20" fill="none">
-    <text x="0" y="15" fill="#4285f4">T</text>
-    <text x="12" y="15" fill="#ea4335">E</text>
-    <text x="21" y="15" fill="#fbbc05">S</text>
-    <text x="30" y="15" fill="#4285f4">T</text>
-    <text x="40" y="15" fill="#389738">!</text>
-    <text x="45" y="15" fill="#ea4335">:</text>
-</svg>
+  "Español": "es",
+  "Magyar": "hu"
+}</code></pre>
+
+<hr />
+
  <h3>Step 3</h3>
- Edit the following block change the language code at the front and the name inside to the actual code and name, then you can translate the right side of the block..
+ Edit the following block change the language code "<b>en</b>" at the front and the "<b>Name</b>" inside to the actual name, then you can translate the right side of the block..<br />
+ Also you can add your name to the <b>"Author"</b> tag..
+ <br /><br />
  
  <pre><code>"en": {
   "Name": "English",
