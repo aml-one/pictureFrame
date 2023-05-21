@@ -51,6 +51,9 @@
 <hr />
 
 <h4>File format is <b>JSON</b>, please use comma where it needed. You can see the structure of the file</h4>
+<h5>The file need to be edited here in this github page, the app is downloading the new file from here</h5>
+<br />
+<br />
 <h3>Step 1</h3>
 Please change the version tag to the actual date when you're editing the file, that's how the app would know if there is a newer language file is.
 
