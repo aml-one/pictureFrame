@@ -1,4 +1,4 @@
-<h2>Picture Frame v1.5+ Language</h2>
+<h2>Picture Frame v1.5+ Language file</h2>
 
 <u>Possible options for new language are the following:</u>
 <li>[af] Afrikaans</li>
