@@ -60,16 +60,22 @@ The format for the date is YYYYMMDD like 2023 05 21 (without spaces)
 
 <h3>Step 2</h3>
 Add the new language name and code into the availableLanguages array. (Please use the name as they would use in that language)
-<pre>
-<code>"availableLanguages": {
+<pre>"availableLanguages": {
   "English": "en",
   "Français": "fr",
   "Deutsch": "de",
-  "Español": "es"```html<span style='color:yellow;'>,
-  "Magyar": "hu"</span>```
-}</code>
+  "Español": "es"$${\color{red},$\color[RGB]{155,127,0} hello$
+  "Magyar": "hu"}$$
+}
  </pre>
- 
+ <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 20" fill="none">
+    <text x="0" y="15" fill="#4285f4">T</text>
+    <text x="12" y="15" fill="#ea4335">E</text>
+    <text x="21" y="15" fill="#fbbc05">S</text>
+    <text x="30" y="15" fill="#4285f4">T</text>
+    <text x="40" y="15" fill="#389738">!</text>
+    <text x="45" y="15" fill="#ea4335">:</text>
+</svg>
  <h3>Step 3</h3>
  Edit the following block change the language code at the front and the name inside to the actual code and name, then you can translate the right side of the block..
  
