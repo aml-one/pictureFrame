@@ -49,7 +49,8 @@
 			"wind": "wind",
 			"daily_high": "daily high",
 			"daily_low": "daily low",
-			"chance_of_precipitation": "chance of precipitation"
+			"chance_of_precipitation": "chance of precipitation",
+			"Tomorrow": "Tomorrow"
 		},
 		"fr": {
 			"Name": "Français",
@@ -91,7 +92,8 @@
 			"wind": "vent",
 			"daily_high": "élevé quotidien",
 			"daily_low": "bas quotidien",
-			"chance_of_precipitation": "risque de précipitation"
+			"chance_of_precipitation": "risque de précipitation",
+			"Tomorrow": "Demain"
 		},
 		"de": {
 			"Name": "Deutsch",
@@ -133,7 +135,8 @@
 			"wind": "wind",
 			"daily_high": "Tageshoch",
 			"daily_low": "Tagestief",
-			"chance_of_precipitation": "Niederschlagswahrscheinlichkeit"
+			"chance_of_precipitation": "Niederschlagswahrscheinlichkeit",
+			"Tomorrow": "Morgen"
 		},
 		"es": {
 			"Name": "Español",
@@ -175,7 +178,8 @@
 			"wind": "viento",
 			"daily_high": "alto diario",
 			"daily_low": "mínimo diario",
-			"chance_of_precipitation": "posibilidad de presipitacion"
+			"chance_of_precipitation": "posibilidad de presipitacion",
+			"Tomorrow": "Mañana"
 		},
 		"hu": {
 			"Name": "Magyar",
@@ -217,7 +221,8 @@
 			"wind": "szél",
 			"daily_high": "napi csúcs",
 			"daily_low": "napi alacsony",
-			"chance_of_precipitation": "csapadék esélye"
+			"chance_of_precipitation": "csapadék esélye",
+			"Tomorrow": "Holnap"
 		},
 		"ar": {
 			"Name": "Arabic",
@@ -259,7 +264,8 @@
 			"wind": "رياح",
 			"daily_high": "ارتفاع يومي",
 			"daily_low": "انخفاض يومي",
-			"chance_of_precipitation": "فرصة لهطول الأمطار"
+			"chance_of_precipitation": "فرصة لهطول الأمطار",
+			"Tomorrow": "غداً"
 		}
 	}
 }
