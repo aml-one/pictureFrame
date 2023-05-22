@@ -163,7 +163,7 @@ Eg: <code>"Magyar": "hu"</code> for Hungarian<br /><br />
   <td>"NE"  </td><td> North East</td>
 </tr>
 <tr>
-  <td>ENE"  </td><td> East North East</td>
+  <td>"ENE"  </td><td> East North East</td>
 </tr>
 <tr>
   <td>"E"   </td><td> East</td>
