@@ -3,24 +3,24 @@
 <u>Possible options for new language are the following:</u>
 <li>[af] Afrikaans</li>
 <li>[al] Albanian</li>
-<li>[ar] Arabic</li>
+<li>[ar] Arabic ✓</li>
 <li>[az] Azerbaijani</li>
 <li>[bg] Bulgarian</li>
 <li>[ca] Catalan</li>
 <li>[cz] Czech</li>
 <li>[da] Danish</li>
-<li>[de] German</li>
+<li>[de] German ✓</li>
 <li>[el] Greek</li>
-<li>[en] English</li>
+<li>[en] English ✓</li>
 <li>[eu] Basque</li>
 <li>[fa] Persian (Farsi)</li>
 <li>[fi] Finnish</li>
-<li>[fr] French</li>
+<li>[fr] French ✓</li>
 <li>[gl] Galician</li>
 <li>[he] Hebrew</li>
 <li>[hi] Hindi</li>
 <li>[hr] Croatian</li>
-<li>[hu] Hungarian</li>
+<li>[hu] Hungarian ✓</li>
 <li>[id] Indonesian</li>
 <li>[it] Italian</li>
 <li>[ja] Japanese</li>
@@ -38,7 +38,7 @@
 <li>[se] Swedish</li>
 <li>[sk] Slovak</li>
 <li>[sl] Slovenian</li>
-<li>[es] Spanish</li>
+<li>[es] Spanish ✓</li>
 <li>[sr] Serbian</li>
 <li>[th] Thai</li>
 <li>[tr] Turkish</li>
