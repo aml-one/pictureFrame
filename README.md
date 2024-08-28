@@ -10,7 +10,7 @@
 <li>[cz] Czech</li>
 <li>[da] Danish</li>
 <li><b>[de] <s>German</s> ✓</b> done</li>
-<li>[el] Greek</li>
+<li><b>[el] <s>Greek</s> ✓</b> done</li>
 <li><b>[en] <s>English</s> ✓</b> done</li>
 <li>[eu] Basque</li>
 <li>[fa] Persian (Farsi)</li>
